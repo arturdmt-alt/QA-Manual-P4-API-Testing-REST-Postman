@@ -30,7 +30,7 @@ Resources tested: /products, /auth/login, /products/search
 
 ## Test Scope
 
-- REST API testing (GET, POST, PUT, DELETE, PATCH)
+- REST API testing (GET, POST, PUT, DELETE)
 - Status code validation (2xx, 4xx, 5xx)
 - Response schema validation
 - Authentication testing
