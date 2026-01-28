@@ -1,0 +1,14 @@
+﻿# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Postman
+*.postman_environment.json
+
+# Temp files
+*.tmp
+*.log
