@@ -52,20 +52,20 @@ Resources tested: /products, /auth/login, /products/search
 P4-API-Testing-REST-Postman/
 ├── README.md
 ├── .gitignore
-├── postman-collections/          # 3 Postman collection exports
+├── postman-collections/                         # 3 Postman collection exports
 │   ├── JSONPlaceholder.postman_collection.json
 │   ├── ReqRes.postman_collection.json
 │   └── DummyJSON.postman_collection.json
-├── test-cases/                   # 22 test case documentation
+├── test-cases/                                  # 22 test case documentation
 │   └── API-Test-Cases.md
-├── test-results/                 # Execution results & evidence
+├── test-results/                                # Execution results & evidence
 │   ├── Test-Execution-Summary.md
 │   └── screenshots/
 │       ├── runner-jsonplaceholder-results.jpg
 │       ├── tc03-validation-404.jpg
 │       ├── tc04-post-create-201.jpg
 │       └── tc20-login-token.jpg
-└── documentation/                # Setup guides & API reference
+└── documentation/                               # Setup guides & API reference
     ├── Postman-Setup-Guide.md
     └── API-Endpoints-Reference.md
 ```
@@ -82,7 +82,6 @@ P4-API-Testing-REST-Postman/
 - **Tool:** Postman v11.x
 - **Testing Type:** Manual functional API testing
 - **Date:** January 2026
-- **QA Tester:** Artur Dmytriyev
 
 ## Key Findings
 
@@ -95,6 +94,16 @@ P4-API-Testing-REST-Postman/
 - Response structures match API documentation
 - Authentication mechanisms work as expected
 - Average response time: 187-211ms (excellent performance)
+
+---
+
+## Author
+
+**Artur Dmytriyev**  
+QA Software Engineer
+
+[![GitHub](https://img.shields.io/badge/GitHub-arturdmt--alt-181717?style=flat&logo=github)](https://github.com/arturdmt-alt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Artur_Dmytriyev-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/arturdmytriyev)
 
 ---
 
